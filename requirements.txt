@@ -1,0 +1,2 @@
+pandas, numpy, matplotlib, seaborn, pyomo, pulp (optional), cylp (optional), coincbc (or pip install cylp if needed), jupytext (optional)
+conda install -c conda-forge pyomo coincbc glpk
