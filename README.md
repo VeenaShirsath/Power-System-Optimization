@@ -5,3 +5,7 @@ The purpose of this repository is to learn power systems modelling.
 1. Electricity Markets and Bidding Zones
 2. Unit Commitment
 3. Newton-Raphson Power Flow
+
+
+## Files
+* electricity_mkt_bidding.ipynb: Electricity markets
