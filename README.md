@@ -9,3 +9,4 @@ The purpose of this repository is to learn power systems modelling.
 
 ## Files
 * electricity_mkt_bidding.ipynb: Electricity markets
+* unit_commitment.ipynb: Unit Commitment models
