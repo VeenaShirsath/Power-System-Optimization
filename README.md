@@ -1,6 +1,8 @@
 # Power-System-Optimization
 This repository is my personal platform for learning power systems modelling. It includes operational, coupling, and planning examples from PyPSA documentation, my own additions on the math of these optimization methods/examples, and beyond. 
 
+***Note: This repository is a work in progress***
+
 ## Topics covered (to be added)
 1. Electricity Markets and Bidding Zones
 2. Unit Commitment
@@ -14,3 +16,6 @@ This repository is my personal platform for learning power systems modelling. It
 * **meshed_ac_dc_network.ipynb**: This example demonstrates how to optimise meshed AC-DC networks in PyPSA. The example has a 3-node AC network coupled via AC-DC converters to a 3-node DC network.
 * **german_example_1day_hourly_dispatch.ipynb**: In this example, the dispatch of generators is optimised using the linear optimisation, then a non-linear power flow is run on the resulting dispatch. This example covers the German power system (roughly in the mid 2010s) for a single day at hourly resolution.
 * **sc_lopf.ipynb**: Security-constrained linear optimal power flow
+* **newton-raphson_pf** : Non-linear power flow equations using the Newton-Raphson method
+* **neg_LMP-congestion.ipynb**: How negative locational marginal prices (LMPs) can occur in electricity systems due to line congestion.
+* **Optimization_Math.md**: includes consolidated notes for optimization math - objective functions, constraints, methods, etc.
