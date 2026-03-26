@@ -19,3 +19,4 @@ This repository is my personal platform for learning power systems modelling. It
 * **newton-raphson_pf** : Non-linear power flow equations using the Newton-Raphson method
 * **neg_LMP-congestion.ipynb**: How negative locational marginal prices (LMPs) can occur in electricity systems due to line congestion.
 * **Optimization_Math.md**: includes consolidated notes for optimization math - objective functions, constraints, methods, etc.
+* **rolling_horizon.ipynb**: Rolling-Horizon Optimization
